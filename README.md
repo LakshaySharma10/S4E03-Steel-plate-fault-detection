@@ -7,4 +7,5 @@
 <br>
 <p>Secured 89th rank out of 2000+ teams with this ML model</p>
 <br>
-<img src="https://drive.google.com/drive/u/0/home" alt="Leaderboard">
+![Leaderboard](https://github.com/LakshaySharma10/S4E03-Steel-plate-fault-detection/blob/main/1fw.png)
+
